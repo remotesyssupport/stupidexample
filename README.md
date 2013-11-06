@@ -1,3 +1,10 @@
+NOTE
+====
+
+None of this is mine, its merely copied from opscode chef repository.
+---------------------------------------------------------------------
+
+
 Overview
 ========
 
